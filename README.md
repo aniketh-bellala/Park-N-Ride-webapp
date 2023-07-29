@@ -17,7 +17,7 @@ Link - https://github.com/aakash-g-acharya/Park-N-Ride-webapp/blob/main/USER-MAN
 Clone the project
 
 ```bash
-  git clone https://github.com/aakash-g-acharya/Park-N-Ride-webapp.git
+  git clone https://github.com/aniketh-bellala/Park-N-Ride-webapp.git
 ```
 
 Go to the project directory
@@ -95,6 +95,8 @@ Import the park-slots json source file present in the repository to your local d
 ## Contact
 
 Aniketh Narayan Bellala - aniketh.bellala@gmail.com
+
+Aakash G Acharya - aakashgacharya@gmail.com
 
 Project Link: (https://github.com/aniketh-bellala/Park-N-Ride-webapp)
 
