@@ -1,0 +1,257 @@
+[{
+  "_id": {
+    "$oid": "6353842e37346f37630c2772"
+  },
+  "status": "occupy",
+  "id": 1,
+  "allocValue": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353844137346f37630c2778"
+  },
+  "status": "occupy",
+  "id": 2,
+  "allocValue": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353844637346f37630c277b"
+  },
+  "status": "occupy",
+  "id": 3,
+  "allocValue": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353844a37346f37630c277e"
+  },
+  "status": "occupy",
+  "id": 4,
+  "allocValue": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353853bf5b84543bbee25dd"
+  },
+  "status": "vacant",
+  "id": 5,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353a9e9f7ccabc5dfa809b1"
+  },
+  "status": "occupy",
+  "id": 6,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f1fcea11fa9325aeab59"
+  },
+  "status": "occupy",
+  "id": 7,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f201ea11fa9325aeab5c"
+  },
+  "status": "occupy",
+  "id": 8,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf26f5181109c6233c099"
+  },
+  "status": "vacant",
+  "id": 9,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2735181109c6233c09c"
+  },
+  "status": "vacant",
+  "id": 10,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2785181109c6233c09f"
+  },
+  "status": "vacant",
+  "id": 11,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf27b5181109c6233c0a2"
+  },
+  "status": "vacant",
+  "id": 12,
+  "allocValue": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2845181109c6233c0a5"
+  },
+  "status": "vacant",
+  "id": 13,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2895181109c6233c0a8"
+  },
+  "status": "vacant",
+  "id": 14,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf28d5181109c6233c0ab"
+  },
+  "status": "vacant",
+  "id": 15,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2905181109c6233c0ae"
+  },
+  "status": "vacant",
+  "id": 16,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2945181109c6233c0b1"
+  },
+  "status": "vacant",
+  "id": 17,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2995181109c6233c0b4"
+  },
+  "status": "vacant",
+  "id": 18,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf29c5181109c6233c0b7"
+  },
+  "status": "vacant",
+  "id": 19,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2a25181109c6233c0ba"
+  },
+  "status": "vacant",
+  "id": 20,
+  "allocValue": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2a85181109c6233c0bd"
+  },
+  "status": "vacant",
+  "id": 21,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2ab5181109c6233c0c0"
+  },
+  "status": "vacant",
+  "id": 22,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2af5181109c6233c0c3"
+  },
+  "status": "vacant",
+  "id": 23,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2b45181109c6233c0c6"
+  },
+  "status": "vacant",
+  "id": 24,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2b75181109c6233c0c9"
+  },
+  "status": "vacant",
+  "id": 25,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2bb5181109c6233c0cc"
+  },
+  "status": "vacant",
+  "id": 26,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2bf5181109c6233c0cf"
+  },
+  "status": "vacant",
+  "id": 27,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2c35181109c6233c0d2"
+  },
+  "status": "vacant",
+  "id": 28,
+  "allocValue": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2c95181109c6233c0d5"
+  },
+  "status": "vacant",
+  "id": 29,
+  "allocValue": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2cf5181109c6233c0d8"
+  },
+  "status": "vacant",
+  "id": 30,
+  "allocValue": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2d35181109c6233c0db"
+  },
+  "status": "vacant",
+  "id": 31,
+  "allocValue": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635cf2d95181109c6233c0de"
+  },
+  "status": "vacant",
+  "id": 32,
+  "allocValue": 6,
+  "__v": 0
+}]

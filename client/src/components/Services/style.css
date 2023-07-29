@@ -1,0 +1,89 @@
+.navbar {
+  width: 100%;
+  height: 70px;
+  background-color: #3bb19b;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px;
+  z-index:2;
+}
+
+.navbar h1 {
+  color: white;
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+.white_btn {
+  border: none;
+  outline: none;
+  padding: 12px 0;
+  background-color: white;
+  border-radius: 20px;
+  width: 120px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.bullets {
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  z-index: 1;
+}
+.bullets:before {
+  border-top: 2px solid #dfdfdf;
+  content: "";
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  width: 60%;
+}
+.bullets {
+  width: 45%;
+  display: inline-flex;
+  justify-content: space-evenly;
+}
+.bullets .bullet {
+  width: 50px;
+  height: 50px;
+  border: 2px solid white;
+  background: #004056;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 2;
+}
+.bullet.active {
+  background: lightgreen;
+  color: black;
+  border: 2px solid black;
+}
+
+.bullet a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar .nav-link {
+  padding: 0 25px;
+  color: black;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.navbar .nav-link:focus,
+.navbar .nav-link:hover {
+  color: rgb(9, 67, 95) !important;
+}
